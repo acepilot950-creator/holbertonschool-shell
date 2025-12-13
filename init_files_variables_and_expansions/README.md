@@ -1,4 +1,7 @@
 0-alias:script for creating alias witn name ls and value rm -f * \n
+
 1-hello_you: script that prints hello user, where user is the current Linux user. \n
+
 2-path :script adds /action to the PATH. /action will be the last directory the shell looks into when looking for a program. \n
+
 3-paths: script that counts the number of directories in the PATH
