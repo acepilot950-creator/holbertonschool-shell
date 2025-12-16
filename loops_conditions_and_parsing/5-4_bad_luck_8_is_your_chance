@@ -9,11 +9,11 @@ i=0
 
 while [ $i != 10 ] 
 do
-	if [ $i == 4 ]
+	if [ $i == 3 ]
 	then
 		echo "Best School"
 		echo "bad luck"
-	elif [ $i == 8 ]
+	elif [ $i == 5 ]
 	then 
 		echo "Best School"
 		echo "good luck"
