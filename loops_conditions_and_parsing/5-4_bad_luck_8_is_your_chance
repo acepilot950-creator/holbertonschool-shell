@@ -11,11 +11,9 @@ while [ $i != 10 ]
 do
 	if [ $i == 3 ]
 	then
-		echo "Best School"
 		echo "bad luck"
 	elif [ $i == 7 ]
 	then 
-		echo "Best School"
 		echo "good luck"
 	else 
 		echo "Best School"
