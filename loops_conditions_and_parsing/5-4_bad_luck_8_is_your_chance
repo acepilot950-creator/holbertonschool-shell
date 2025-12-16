@@ -13,7 +13,7 @@ do
 	then
 		echo "Best School"
 		echo "bad luck"
-	elif [ $i == 5 ]
+	elif [ $i == 7 ]
 	then 
 		echo "Best School"
 		echo "good luck"
