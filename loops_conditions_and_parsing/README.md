@@ -43,3 +43,10 @@
 #        Displays Buzz when the number is a multiple of 5
 #        Otherwise, displays the number
 #        In a list format
+# 11-read_and_cut: Bash script that displays the content of the file /etc/passwd.
+
+#        Your script should only display:
+
+#        username
+#        user id
+#        Home directory path for the user
