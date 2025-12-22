@@ -55,3 +55,5 @@
 
 # Format: The user USERNAME is part of the GROUP_ID gang, lives in HOME_DIRECTORY and rides COMMAND/SHELL. USER ID's place is protected by the passcode PASSWORD, more info about the user here: USER ID INFO
 
+# 13-lets-parse-apache-logs : Bash script that displays the visitor IP along with the HTTP status code from the Apache log file
+
