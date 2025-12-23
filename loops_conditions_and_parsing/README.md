@@ -57,3 +57,4 @@
 
 # 13-lets-parse-apache-logs : Bash script that displays the visitor IP along with the HTTP status code from the Apache log file
 
+# 14-dig_the-data :  Bash script that groups visitors by IP and HTTP status code, and displays this data.
